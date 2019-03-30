@@ -1,6 +1,10 @@
 LIFO:
 
-coming -- gcp project access courtesy Jaana
+
+
+https://campus.datacamp.com/courses/biomedical-image-analysis-in-python/exploration?ex=2
+
+http://35.230.9.201:6969/?token=60df588bbf860d42a8829a7ff64859317107c22662d9da6f -- gcp project access courtesy Jaana
 
 PC24AL5I3JNHAJY -- Art's AWS code for Jupiter, etc.
 
@@ -11,6 +15,6 @@ https://www.facebook.com/craftnetics/ -- Art
 https://www.eventbrite.com/e/school-of-ai-health-hackathon-2019-sacramento-ca-registration-55917943073 -- by Art
 
 https://www.nature.com/articles/nature21056 -- added by Art
-
+---------first in at bottom
 
 
